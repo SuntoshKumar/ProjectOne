@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="clickme">clickme</string>
+    <string name="touchme">touchme</string>
+</resources>
